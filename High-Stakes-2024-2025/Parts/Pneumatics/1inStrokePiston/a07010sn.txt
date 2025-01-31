@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"AutomationDirect";"";
+"TraceParts.PartVersion";"1.1.0";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"90-18072019-039352";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"NITRA pneumatic cylinder, non-repairable, 7/16in bore, 3/16in rod diameter, 1in stroke, single acting, front nose mount.";"";
+"TraceParts.InstanceId";"90-18072019-03935278P2ST6ENTHNY6M228NL8S6AD";"";
+"TraceParts.PartTitle";"NITRA pneumatic cylinder, non-repairable, 7/16in bore, 3/16in rod diameter, 1in stroke, single acting, front nose mount.";"";
+"TraceParts.PartStatusId";"";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Part_Number_EShop_URL";"http://www.adcpn.com/pn/A07010SN";"";
+"TraceParts.ClassPath";"/F_AUTOMATION_DIRECT/AUTOMATION_DIRECT.760793/";"";
+"SUPPLIER_PART_NUMBER";"A07010SN";"";
