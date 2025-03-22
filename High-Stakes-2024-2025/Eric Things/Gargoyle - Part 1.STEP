@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('Gargoyle - Part 1.STEP',
+    '2025-03-16T19:54:56',
+    ( '' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2024',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #8 ) ;
+#2 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #9 ) ) ;
+#3 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #10, 'design' ) ;
+#4 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'ANY', '', #9, .NOT_KNOWN. ) ;
+#5 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #11 ) ;
+#6 = PRODUCT_CONTEXT ( 'NONE', #8, 'mechanical' ) ;
+#7 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #10 ) ;
+#8 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#9 = PRODUCT ( 'Gargoyle - Part 1', 'Gargoyle - Part 1', '', ( #6 ) ) ;
+#10 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#11 = PRODUCT_DEFINITION ( 'UNKNOWN', '', #4, #3 ) ;
+ENDSEC;
+END-ISO-10303-21;
